@@ -32,9 +32,11 @@ Install dependencies:
 Debian/Ubuntu hosts::
 
     $ sudo apt-get install build-essential python-dev python-pip liberasurecode-dev
-```bash
+
+fix
+
 sudo apt-get install build-essential python3-dev python3-pip liberasurecode-dev
-```
+
     $ sudo pip install -U bindep -r test-requirements.txt
 
 RHEL/CentOS hosts::
